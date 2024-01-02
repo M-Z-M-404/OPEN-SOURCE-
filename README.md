@@ -1,0 +1,1 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31F70D&background=FF122F00&random=false&width=435&lines=Enjoy+open+source+by+Muhammad+Zakaryia%F0%9F%A4%AD+" alt="Typing SVG" /></a>
